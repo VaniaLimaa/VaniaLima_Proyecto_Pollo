@@ -1,0 +1,80 @@
+﻿'Proyecto 1.exe' (Win32): 'C:\Users\aleja\source\repos\Proyecto 1\x64\Debug\Proyecto 1.exe' cargado. Símbolos cargados.
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ntdll.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\kernel32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Users\aleja\source\repos\Proyecto 1\Proyecto 1\sfml-graphics-d-2.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Users\aleja\source\repos\Proyecto 1\Proyecto 1\sfml-window-d-2.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\gdi32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\win32u.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\gdi32full.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\msvcp_win.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ucrtbase.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\user32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\advapi32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\sechost.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Users\aleja\source\repos\Proyecto 1\Proyecto 1\sfml-system-d-2.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\msvcp140d.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\vcruntime140_1d.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\opengl32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\combase.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\winmm.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\glu32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\imm32.dll' cargado. 
+El subproceso 0xf20 terminó con código 0 (0x0).
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\uxtheme.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\msctf.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\oleaut32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\bcryptprimitives.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\clbcatq.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\AppXDeploymentClient.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\AppXDeploymentClient.dll' descargado
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\c0365900.inf_amd64_9711e6a716b3374b\B365971\atig6pxx.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\c0365900.inf_amd64_9711e6a716b3374b\B365971\atio6axx.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\setupapi.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\cfgmgr32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\bcrypt.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ole32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\dxva2.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\version.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\dwmapi.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\dxgi.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ResourcePolicyClient.dll' descargado
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\dxgi.dll' descargado
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\DriverStore\FileRepository\c0365900.inf_amd64_9711e6a716b3374b\B365971\atig6txx.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\atiadlxx.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\shell32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\psapi.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\propsys.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\pdh.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\devobj.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\wintrust.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\crypt32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\msasn1.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\windows.storage.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\wldp.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\SHCore.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\shlwapi.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\DXCore.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\dinput8.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\InputHost.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\CoreMessaging.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ws2_32.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\WinTypes.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\CoreUIComponents.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\ntmarta.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\hid.dll' cargado. 
+'Proyecto 1.exe' (Win32): 'C:\Windows\System32\TextInputFramework.dll' cargado. 
+El subproceso 0x3bb0 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x1508 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x1ec8 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x38d4 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x1534 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x2140 terminó con código 3221225786 (0xc000013a).
+El subproceso 0x3a28 terminó con código 3221225786 (0xc000013a).
+El programa '[13392] Proyecto 1.exe' terminó con código 3221225786 (0xc000013a).
